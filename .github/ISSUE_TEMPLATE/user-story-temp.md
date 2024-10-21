@@ -1,29 +1,12 @@
----
-name: User Story temp
-about: this is a user story template
-title: ''
-labels: ''
-assignees: med03ali
 
----
-
----
-name: User story
-about: Templaet for a user story
-title: ''
-labels: ''
-assignees: ''
-
----
-
-**As a** [role]  
- **I need** [function]  
- **So that** [benefit]  
+   **En tant que** [role]  
+ **Je veux** [function]  
+ **Afin de** [benefit]  
    
- ### Details and Assumptions
+ ### Details
  * [document what you know]
    
- ### Acceptance Criteria  
+ ### Critere d'acceptance
    
  ```gherkin
  Given [some context]
